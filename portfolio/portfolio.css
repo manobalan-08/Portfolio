@@ -1,0 +1,72 @@
+header{
+    background-color: black;
+    text-align: center;
+}
+header h1{
+    color: aliceblue;
+}
+header nav ul li{
+    color: white;
+    display: inline;
+    padding: 5px;
+    margin: auto;
+    
+}
+
+header nav ul li a{
+    color: aliceblue;
+    display: inline;
+    
+    
+}
+footer{
+   color: gray;
+    background-color: #228B22;
+    display:inline;
+    padding: 5 px;
+}
+.container{
+   text-align:center;
+}
+.about{
+    text-align:left;
+    color:whitesmoke;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight:lighter
+}
+.quotes{
+    font-family:'Trebuchet MS';
+    color:gainsboro;
+
+}
+#head1{
+    color: antiquewhite;
+   
+}
+#head2 {
+    color: antiquewhite;
+    text-decoration: overline;
+    font-family: sans-serif;
+    font-weight: lighter;
+    
+}
+#Skills{
+    text-align: left;
+    background-color: black;
+    color:#DAA520;
+    
+
+}
+#miles{
+    color:antiquewhite;
+    text-decoration: underline;
+}
+
+body{
+    text-align: center;
+    background-image:url('https://c.wallhere.com/photos/cd/d2/minimalism_motivational_inspirational-1402199.jpg!d');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
